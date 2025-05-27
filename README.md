@@ -26,3 +26,7 @@ Visualize the Climate patterns
      Random Forest Regresssor
      XGB regressor
      Predict the Future Sales
+
+Dashboards by using Power BI
+    Sum of sales by region and Category 
+    Sum of Profit by region, category and sub-category.
